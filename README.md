@@ -6,6 +6,6 @@ It is done for a friend who needed to sumbit a Google form repeatedly in a matte
 # Usage  
 Please, it is so simple just have a look at the code...
 
-# Dependacies  
+# Dependencies  
 - `requests`
 - `BeautifulSoup`
